@@ -1,3 +1,6 @@
+#Python 3.7.3
+#Make by Lonely-Dark
+
 import socket
 sock=socket.socket()
 sock.connect(('localhost', 8080))
